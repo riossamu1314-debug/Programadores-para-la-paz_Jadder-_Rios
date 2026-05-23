@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+Git es un sistema de control de versiones para registrar cambios en proyectos.
+
+Pregunta 2:
+Respuesta: B
+La función principal de un repositorio es registrar y organizar los archivos y cambios de un proyecto.
+
+Pregunta 3:
+Respuesta: B
+El comando git add . agrega archivos al área de preparación para registrar cambios.
+
+Pregunta 4:
+Respuesta: A
+El comando git commit guarda un registro de cambios realizados en el proyecto.
