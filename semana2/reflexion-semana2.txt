@@ -1,0 +1,5 @@
+Reflexión – Semana 2
+
+Saber usar la terminal es una habilidad fundamental para cualquier desarrollador, porque permite interactuar directamente con el sistema operativo de manera rápida y precisa.
+A diferencia de los entornos gráficos, la terminal da control total sobre los archivos y carpetas del proyecto sin depender de botones o menús. Con comandos como pwd, ls, mkdir y cd, un desarrollador puede navegar, organizar y estructurar su proyecto de forma eficiente.
+Además, la terminal es la base para usar herramientas esenciales como Git, que permite registrar los cambios del código y trabajar en equipo. Sin conocer la terminal, sería muy difícil ejecutar scripts, instalar dependencias o automatizar tareas repetitivas. Por eso, aprender a usarla desde el inicio es una inversión clave en la formación de cualquier desarrollador.
